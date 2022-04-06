@@ -2,7 +2,11 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: DELLFOR TE OFRECE 
+
+ES PARA TI ENCONTRARAS LA MEJOR CALIDAD MEJOR SERVICIO PARA TU PC Y PODEMOS RESOLVER CUALQUIER PROBLEMA QUE TENGAS CON TU PC NOSOTROS SOMOS SEGUROS EN TODO MOMENTO TENEMOS LA MEJOR INFORMACION INFORMATICA Y CALIDAD ELECTRONICA Nuestros técnicos Son calificados con los años suficientes en experiencia, reparamos y hacemos mantenimiento de todo tipo y marcas de aparatos
+
+tenemos informacion segura para todo tipo de cliente
 description: |
 ---
   A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
