@@ -2,9 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: 
+title: TE PODEMOS AYUDARTE EN 
 
 description: |
 ---
- SOMOS UNA EMPRESA MUY CONFIABLES CON NOSOTROS ENCONTRARAS LA MEJORES SOLUCIONES PARA TU PC SIEMPRE PARA TU DISPONIBILIDAD EN CUALQUIER TIEMPO 
- Y MOMENTO  es una compañía de Consultoría y Servicios de Tecnologías de la Información con una amplia experiencia que alcanza ya los 27 años y que está repleta de casos de éxito en la implantación de productos y herramientas informáticas al servicio de muchas empresas y organizaciones en general.
+ 
