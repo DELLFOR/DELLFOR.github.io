@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: 
-title: NUESTROS SERVICIOS
+title:NUESTROS SERVICIOS
 description: 
  --- 
   Nuestros servicios son los mejores Y más confiables Le damos mantenimiento a tu PC Te podemos componer cualquier equipo de cualquier marca Siempre con la mejor calidad
