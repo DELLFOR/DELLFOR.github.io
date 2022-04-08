@@ -2,8 +2,15 @@
 layout: default
 img: ipad.png
 category: Services
-title: 
+title: CATALOGO DE SERVICIOS 
 
 description: |
 ---
  
+ MESA DE AYUDA: Conjugamos los procesos, la tecnología y el talento humano en la proporción correcta para prestar servicio de gestión, atención y solución para los usuarios de servicios de TI.
+ 
+ SOPORTE TECNICO TI : Soporte técnico a la medida, que llegue a donde estés y con los niveles de servicio que requieras, con el respaldo y control de profesionales en el área.
+ 
+ SOPORTE ESPECIALIZADO : Diseñamos el servicio de soporte de segundo nivel a la medida de tus necesidades. Estructuramos con nuestra propia metodología el servicio con los procesos, herramientas y talento humano.
+ 
+ SERVICIOS DE NUBE : Ayudamos a las empresas a obtener los beneficios que los servicios en la nube pueden aportar a sus negocios, poniendo a su alcance la infraestructura que requiera con la elasticidad, flexibilidad y seguridad.
