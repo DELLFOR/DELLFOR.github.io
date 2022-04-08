@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: 
-title: NOS MANEJAMOS DE FORMAS 
+title: NOS MANEJAMOS DE FORMA
 
 description: |
 ---
